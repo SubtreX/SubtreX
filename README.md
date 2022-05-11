@@ -4,6 +4,7 @@
 - :computer: I love to code
 - :zap: I like to dabble in concepts of Artificial Intelligence, Machine Learning and Computer Vision
 - :space_invader: I am greatly intrigued by the cosmos and believe humans will become multi-planetary
+- :city_sunset: The universe is a mystery, why not try to uncover it using codes?
 - :sun_with_face: My hobbies include travelling :compass:, vlogging :camera:, beatboxing :microphone:, reading and collecting books :books:
 - 📫 Connect with me:
   - :office: [LinkedIn](https://www.linkedin.com/in/subhadeep-jana-3bb319171/)
