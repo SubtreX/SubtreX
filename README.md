@@ -16,3 +16,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubtreX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![LeetCode Stats](https://leetcode.card.workers.dev/subtrex?theme=unicorn&font=baloo&extension=null)
+
